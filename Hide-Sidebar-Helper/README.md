@@ -1,3 +1,5 @@
+# NOTE: Such button already exists natively in ChatGPT Web UI... if you can find it.
+
 # Hide ChatGPT Sidebar Userscript
 
 ## Introduction
