@@ -1,0 +1,1 @@
+## Automatically clicks the "Continue generating" button every 3 seconds if it is found on the page.
